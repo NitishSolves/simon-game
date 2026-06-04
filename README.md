@@ -57,7 +57,7 @@ simon-game/
 ## 🚀 Getting Started
 
 ### Play Online
-Visit the live demo: [GitHub Pages Link]
+Visit the live demo: [https://nitishsolves.github.io/simon-game/]
 
 ### Play Locally
 1. Clone the repository:
@@ -80,16 +80,7 @@ Visit the live demo: [GitHub Pages Link]
      npx http-server
      ```
    - Then visit `http://localhost:8000`
-
-## 🐛 Bug Fixes (v1.0.1)
-
-This version includes critical fixes:
-- ✅ Fixed script tag typo (`<scipt>` → `<script>`)
-- ✅ Fixed button randomization (now all 4 colors can be selected)
-- ✅ Fixed game-over background flash effect
-- ✅ Fixed setTimeout typo in reset logic
-- ✅ Improved code structure with proper variable declarations
-- ✅ Added high score tracking feature
+   - 
 
 ## 📊 How the Game Works
 
@@ -107,24 +98,16 @@ This version includes critical fixes:
 - `userSeq[]` — Stores the buttons you click in the current level
 - `highScore` — Persists throughout your session
 
-## 🎨 Customization Ideas
-
-Want to enhance the game? Here are some ideas:
-- Add sound effects for button clicks
-- Add difficulty levels (faster sequences, more buttons)
-- Store high scores in `localStorage` for persistence across sessions
-- Add a timer or leaderboard
-- Create a dark mode theme
-- Add keyboard controls (use arrow keys to play)
-
 ## 📝 License
 
 This project is open source and free to use. Feel free to fork, modify, and redistribute!
 
 ## 👨‍💻 Author
 
-Built by **Nitish** | [GitHub](https://github.com/NitishSolves)
+Made with ❤️ by **Nitish** | [GitHub](https://github.com/NitishSolves)
 
 ---
+
+**Have fun playing!🎯** ❤️
 
 **Have fun playing! Can you beat level 10? 🎯**
