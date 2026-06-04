@@ -108,6 +108,5 @@ Made with ❤️ by **Nitish** | [GitHub](https://github.com/NitishSolves)
 
 ---
 
-**Have fun playing!🎯** ❤️
 
-**Have fun playing! Can you beat level 10? 🎯**
+**Have fun playing!🎯** ❤️
