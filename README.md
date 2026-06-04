@@ -55,7 +55,7 @@ simon-game/
 ```
 
 ## 🚀 Getting Started
-
+**For best experience**: Play on a **desktop or laptop** with a keyboard! 🖥️
 ### Play Online
 Visit the live demo: [https://nitishsolves.github.io/simon-game/]
 
@@ -80,8 +80,7 @@ Visit the live demo: [https://nitishsolves.github.io/simon-game/]
      npx http-server
      ```
    - Then visit `http://localhost:8000`
-   - 
-
+     
 ## 📊 How the Game Works
 
 ### Game Flow
@@ -92,11 +91,6 @@ Visit the live demo: [https://nitishsolves.github.io/simon-game/]
 5. Each click is added to `userSeq[]` and checked via `checkAns()`
 6. If correct, game waits 1 second then calls `levelUp()` again
 7. If incorrect, game ends and resets
-
-### Sequence Tracking
-- `gameSeq[]` — Stores the pattern Simon generates
-- `userSeq[]` — Stores the buttons you click in the current level
-- `highScore` — Persists throughout your session
 
 ## 📝 License
 
